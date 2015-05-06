@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects managedObjectVersionString="Studio.1.DeveloperPreview.0">
+    <object class="AudioFile" id="{a0979839-b87b-48d0-972d-0dc2ce1fde52}">
+        <property name="frequencyInKHz">
+            <value>44.1</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>2.00143</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/pu-04 {840c6ba7-b00b-4f1e-a971-62eb3cc9ecd4}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6c675e00-409e-4165-baf9-0e356f484078}</destination>
+        </relationship>
+    </object>
+</objects>

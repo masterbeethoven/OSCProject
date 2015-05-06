@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects managedObjectVersionString="Studio.1.DeveloperPreview.0">
+    <object class="AudioFile" id="{de6eda24-3451-40bf-b718-b96dbab00f24}">
+        <property name="frequencyInKHz">
+            <value>44.1</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>1.6602</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>0</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/af-roll-00 {d6f8fa21-b777-4dad-bd31-cdc01f86230e}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6c675e00-409e-4165-baf9-0e356f484078}</destination>
+        </relationship>
+    </object>
+</objects>

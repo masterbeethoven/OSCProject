@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="Workspace" id="{68fff8fd-339a-4a94-89e6-6ecd0b9f96c6}">
+        <property name="outputFormat">
+            <value>6</value>
+        </property>
+        <relationship name="masterEventFolder">
+            <destination>{ea27f030-4983-4b1c-98e4-f1d39d5be3b5}</destination>
+        </relationship>
+        <relationship name="masterTagFolder">
+            <destination>{b5ea3531-7fdd-4ef6-b49e-3bc081462bb2}</destination>
+        </relationship>
+        <relationship name="masterBankFolder">
+            <destination>{f18d190b-3f16-4b01-b1eb-c28a005b9c9e}</destination>
+        </relationship>
+        <relationship name="audioBinManager">
+            <destination>{03bd2b46-dcbd-45f6-adab-ce8d3b88288d}</destination>
+        </relationship>
+        <relationship name="automationScales">
+            <destination>{049ae4f3-a68a-438a-95eb-902dee0574a0}</destination>
+            <destination>{0a4388e3-f941-4527-9cec-c7bff44853b3}</destination>
+            <destination>{0d106681-4589-45f2-9991-05bf624a4336}</destination>
+            <destination>{11745451-453d-4488-b2a4-ffe8a1ffcc99}</destination>
+            <destination>{11dda99c-8f49-43f1-8a03-03743eab4459}</destination>
+            <destination>{11fc7462-4526-458d-a0f2-f883a35893dd}</destination>
+            <destination>{16ce34e6-0714-49ff-b1a3-30a28b71cb11}</destination>
+            <destination>{171aa771-aa4f-4f17-9d0d-55cf73b32b5e}</destination>
+            <destination>{19d37fda-da93-4c05-9fd6-e4e8006b41e0}</destination>
+            <destination>{2290fc95-48ad-4079-b7a8-b9661c4a3dd5}</destination>
+            <destination>{28ed33a6-7487-4d20-983d-6b193e6b9560}</destination>
+            <destination>{2b44c098-2599-43de-9fb9-9dca9b7a0224}</destination>
+            <destination>{35208f18-d621-4f28-825d-0638d6145586}</destination>
+            <destination>{36660d37-5355-4dad-8b90-e4393e8eb868}</destination>
+            <destination>{36d0d916-9522-4486-a7a8-860094dcc0dc}</destination>
+            <destination>{3737e827-4ced-4a4a-a81c-7fd49461bd34}</destination>
+            <destination>{3cbe8331-566f-442d-93e3-d7007a07f6c5}</destination>
+            <destination>{3cfbd2ed-f61c-444e-9e43-61926cfe79a1}</destination>
+            <destination>{3f630294-c1fd-4b4c-8fc8-9cd7e93b040b}</destination>
+            <destination>{3fb30352-9a93-45f9-9ea6-01d25afcf314}</destination>
+            <destination>{40eeb46f-4270-46f0-be1f-f3f00f7e5912}</destination>
+            <destination>{4159da58-b719-4c35-8d0e-706dee916bc5}</destination>
+            <destination>{42b387c4-b570-4f9c-ba61-fbef2bb154f3}</destination>
+            <destination>{45cc814a-ad57-4b77-859b-f076a8f9e477}</destination>
+            <destination>{47e716f3-a7df-449d-8549-49493e509f01}</destination>
+            <destination>{48aaa84d-3a9e-41c3-b6f3-f6dbaa57882d}</destination>
+            <destination>{4bf448bf-6abc-434d-b0f7-63113f5efacf}</destination>
+            <destination>{4ed31fcc-1d85-4a43-b058-f4ea3cc2fe7c}</destination>
+            <destination>{4f064cc6-bb41-460c-9ed0-b319f0d6a98b}</destination>
+            <destination>{4ff7784a-98bf-49b5-94c6-d03ca3d022c3}</destination>
+            <destination>{5459d09f-49fc-420d-be50-9ae0a135e4b0}</destination>
+            <destination>{548a21d8-b6c8-475a-b560-bc25bac26c00}</destination>
+            <destination>{54d6c384-4233-4eb9-a974-23d540722a9b}</destination>
+            <destination>{56d17d69-457a-4050-b03c-2cdbe1be3ed4}</destination>
+            <destination>{57ab21dd-d995-4ac7-8e83-b4c0107e4809}</destination>
+            <destination>{57b1efe2-eaf6-4eb6-9547-2dafde5b3fb2}</destination>
+            <destination>{5c448a0b-0c8b-4266-8716-0ac3302c7ef7}</destination>
+            <destination>{5ee7e132-917f-4bb9-9409-cd87c307d37f}</destination>
+            <destination>{5face032-7d21-4d54-bf75-0e8d13d3cf30}</destination>
+            <destination>{605c7d9e-3ed3-45cd-8d3b-996964fdc53f}</destination>
+            <destination>{60c39e4e-6847-45a8-bccc-9e8accbfccef}</destination>
+            <destination>{61f549b2-ed46-4a21-82f7-3f93808366c1}</destination>
+            <destination>{625914d1-c58a-457a-ab27-14bfc87ecc4c}</destination>
+            <destination>{6314cb8e-7876-49b1-8981-f67687252e45}</destination>
+            <destination>{653546a2-2b14-4c32-8f4b-4cfe1417d6f6}</destination>
+            <destination>{6a0091e7-37a7-4050-8f49-83f96d0b7e83}</destination>
+            <destination>{6b4c01d8-62b3-4719-a7cd-cd29586e1553}</destination>
+            <destination>{6cad24e7-8bfc-472b-a606-df17c1859971}</destination>
+            <destination>{73bbccdc-895d-45bb-8ed1-445acdd05206}</destination>
+            <destination>{7c53b5a5-5a2e-415a-aa2a-fc3b78d3803d}</destination>
+            <destination>{7d11ed6e-c845-413d-8a31-96e9af4f2296}</destination>
+            <destination>{813c0402-acd4-41c4-99f4-586bdbdb4ada}</destination>
+            <destination>{869512e6-eb2f-4694-a969-1838bff887e7}</destination>
+            <destination>{87286d6e-4046-4705-9d46-e123309d63c7}</destination>
+            <destination>{87339bf4-2b9c-4f25-9d31-fcf408241c94}</destination>
+            <destination>{8f1220e9-cf09-48d9-b803-7e720f0964ef}</destination>
+            <destination>{8f7eec4c-e0da-4d6b-8019-dedaf3747294}</destination>
+            <destination>{900d5776-41cd-4a1a-91ad-52081654219f}</destination>
+            <destination>{919c99ea-511f-4302-80a5-2fb0386cb5fc}</destination>
+            <destination>{94079f76-407e-4c68-b93b-2ca4c5478ccc}</destination>
+            <destination>{96558585-6bc5-4cda-bd2f-3e4a6152d141}</destination>
+            <destination>{9d36849a-aced-4b53-a22a-468417de30d2}</destination>
+            <destination>{9fd813a7-a8cf-4f80-89e3-3eca5c1bd7e4}</destination>
+            <destination>{a21f496c-36a5-464a-b0b1-63e038f32e04}</destination>
+            <destination>{a250ce05-3536-4c9d-83d5-ac22c853bfb0}</destination>
+            <destination>{a60b3109-4b54-4543-a8c9-8ec47717c744}</destination>
+            <destination>{a6bc0202-244a-4aac-9e45-65c8af031d2f}</destination>
+            <destination>{aacd5c1c-e73a-43ef-a7c0-690148911f52}</destination>
+            <destination>{ad006ca6-bd5c-4776-a477-fee29671e293}</destination>
+            <destination>{ade7189b-9e30-4488-b4ee-b90a1f69806b}</destination>
+            <destination>{b0993886-0e4c-4405-9ec6-a01141fa4221}</destination>
+            <destination>{b23d3d64-8153-42b3-8642-7710ab401caf}</destination>
+            <destination>{b264aecc-0a0a-41fb-9b28-e612be637bb4}</destination>
+            <destination>{b7f401a0-70b8-4179-ac7e-47e13812cee4}</destination>
+            <destination>{c123d624-3a57-4812-8631-606086accec6}</destination>
+            <destination>{d1090e74-cea9-43c2-a92a-e7f4bf8a7465}</destination>
+            <destination>{d2173254-cc66-4561-bc6a-abced6e43df5}</destination>
+            <destination>{d26eea58-62f3-4633-b248-e20088e52f4e}</destination>
+            <destination>{d647623a-535f-4602-a7d1-12955ba765b3}</destination>
+            <destination>{dfdb3a8c-a620-4047-80f6-d00fdaf4d51d}</destination>
+            <destination>{e2ac85da-f789-4e47-b228-a3414ba26bc9}</destination>
+            <destination>{e7d57f9e-595b-4f75-a37a-021db5d9cd2f}</destination>
+            <destination>{ec681a9b-90d4-4093-89c1-d0674dc77879}</destination>
+            <destination>{edf05881-9ab4-448d-9641-a7cdf59f2e9d}</destination>
+            <destination>{eed2a9a6-c611-4c74-9012-56c95e7e3f14}</destination>
+            <destination>{ef6c0af4-c122-4826-bb67-3e89904854f9}</destination>
+            <destination>{f090e7b6-3b6d-4b48-a947-ed85a3dd0348}</destination>
+            <destination>{f1abe18b-7d6b-48c5-8c5c-fa12cd7f8171}</destination>
+            <destination>{f9009ef6-7abc-4c3c-8e12-93d4195a6664}</destination>
+            <destination>{f999f43c-e52c-4df7-b481-d33fac19986d}</destination>
+            <destination>{facc27a7-e182-4fad-9419-8595e2fb2e5b}</destination>
+            <destination>{fb348f16-f343-4c5b-affd-16dc8962fe4e}</destination>
+            <destination>{fb731244-bd0c-4135-9960-ec688d61b21c}</destination>
+            <destination>{fe8a78cd-2ad3-4591-bd94-cf50bbe98ec8}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{8d4495c9-b14c-4fc2-b60d-00628898f602}</destination>
+        </relationship>
+    </object>
+    <object class="AudioBinManager" id="{03bd2b46-dcbd-45f6-adab-ce8d3b88288d}">
+        <relationship name="masterAudioBinFolder">
+            <destination>{6c675e00-409e-4165-baf9-0e356f484078}</destination>
+        </relationship>
+    </object>
+    <object class="AutomationScale" id="{049ae4f3-a68a-438a-95eb-902dee0574a0}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,100.000000)(0.500000,300.000000)(1.000000,1000.000000)(2.000000,5000.000000)(3.000000,20000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>decayTime</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{0a4388e3-f941-4527-9cec-c7bff44853b3}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,360.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>userPanExtent</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{0d106681-4589-45f2-9991-05bf624a4336}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(2.000000,1.000000)(5.000000,5.000000)(10.000000,10.000000)(15.000000,100.000000)(20.000000,1000.000000)(27.000000,10000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>maximumDistance</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{11745451-453d-4488-b2a4-ffe8a1ffcc99}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,0.100000)(2.000000,1.000000)(3.000000,5.000000)(4.000000,20.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SuperGainEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>gain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{11dda99c-8f49-43f1-8a03-03743eab4459}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,10.000000)(1.000000,100.000000)(2.000000,400.000000)(3.000000,750.000000)(4.000000,1250.000000)(5.000000,2000.000000)(6.000000,3200.000000)(7.000000,5500.000000)(8.000000,10000.000000)(9.000000,18000.000000)(10.000000,22000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>HighpassEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>cutoff</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{11fc7462-4526-458d-a0f2-f883a35893dd}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.200000,20.000000)(1.000000,100.000000)(2.000000,400.000000)(3.000000,750.000000)(4.000000,1250.000000)(5.000000,2000.000000)(6.000000,3200.000000)(7.000000,5500.000000)(8.000000,10000.000000)(9.000000,18000.000000)(9.500000,20000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>HFReference</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{16ce34e6-0714-49ff-b1a3-30a28b71cb11}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-30.000000)(1.000000,30.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>CompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>gain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{171aa771-aa4f-4f17-9d0d-55cf73b32b5e}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,0.100000)(2.000000,1.000000)(3.000000,5.000000)(4.000000,20.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>McDSPFutzBoxEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>distortion_amount</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{19d37fda-da93-4c05-9fd6-e4e8006b41e0}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ThreeEQEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>midGain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{2290fc95-48ad-4079-b7a8-b9661c4a3dd5}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.200000,20.000000)(1.000000,100.000000)(2.000000,400.000000)(3.000000,750.000000)(3.800000,1000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>lowShelfFrequency</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{28ed33a6-7487-4d20-983d-6b193e6b9560}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)(2.000000,500.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>dopplerMultiplier</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{2b44c098-2599-43de-9fb9-9dca9b7a0224}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerSend</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>level</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{35208f18-d621-4f28-825d-0638d6145586}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,360.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>minimumExtent</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{36660d37-5355-4dad-8b90-e4393e8eb868}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,1.000000)(1.000000,0.500000)(2.000000,0.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>panBlend</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{36d0d916-9522-4486-a7a8-860094dcc0dc}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,10.000000)(1.000000,100.000000)(2.000000,400.000000)(3.000000,750.000000)(4.000000,1250.000000)(5.000000,2000.000000)(6.000000,3200.000000)(7.000000,5500.000000)(8.000000,10000.000000)(9.000000,18000.000000)(9.300000,22000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ThreeEQEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>highCrossover</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{3737e827-4ced-4a4a-a81c-7fd49461bd34}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>McDSPLimiterEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>knee</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{3cbe8331-566f-442d-93e3-d7007a07f6c5}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,10.000000)(1.000000,100.000000)(1.600000,500.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeMaximizerEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>release</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{3cfbd2ed-f61c-444e-9e43-61926cfe79a1}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,0.100000)(2.000000,1.000000)(3.000000,5.000000)(4.000000,20.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>FlangerEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>rate</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{3f630294-c1fd-4b4c-8fc8-9cd7e93b040b}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,1.000000)(1.000000,2.000000)(2.000000,5.000000)(3.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>LowpassEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>resonance</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{3fb30352-9a93-45f9-9ea6-01d25afcf314}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,1.000000)(1.000000,2.000000)(2.000000,5.000000)(3.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>HighpassEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>resonance</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{40eeb46f-4270-46f0-be1f-f3f00f7e5912}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-180.000000)(1.000000,180.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>Sound</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>azimuthOffset</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{4159da58-b719-4c35-8d0e-706dee916bc5}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>DelayEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>dryLevel</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{42b387c4-b570-4f9c-ba61-fbef2bb154f3}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.010000)(1.000000,0.100000)(2.000000,0.200000)(3.000000,0.500000)(4.000000,1.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>FlangerEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>delay</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{45cc814a-ad57-4b77-859b-f076a8f9e477}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,0.100000)(2.000000,1.000000)(3.000000,5.000000)(4.000000,20.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>LittleEndianSpectrumWorxEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>input_gain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{47e716f3-a7df-449d-8549-49493e509f01}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,1.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>AudioGamingAudioWeatherEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>rain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{48aaa84d-3a9e-41c3-b6f3-f6dbaa57882d}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(1.000000,10.000000)(2.000000,100.000000)(3.000000,1000.000000)(3.500000,5000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>CompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>releaseTime</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{4bf448bf-6abc-434d-b0f7-63113f5efacf}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>DelayEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>feedback</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{4ed31fcc-1d85-4a43-b058-f4ea3cc2fe7c}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,1.000000)(1.000000,10.000000)(2.000000,100.000000)(3.000000,1000.000000)(3.500000,5000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeCompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>release</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{4f064cc6-bb41-460c-9ed0-b319f0d6a98b}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,360.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerBusPanner</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>surroundPanExtent</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{4ff7784a-98bf-49b5-94c6-d03ca3d022c3}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-36.000000)(1.000000,0.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>McDSPLimiterEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>ceiling</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{5459d09f-49fc-420d-be50-9ae0a135e4b0}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,0.100000)(2.000000,1.000000)(3.000000,5.000000)(4.000000,20.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>McDSPLimiterEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>character</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{548a21d8-b6c8-475a-b560-bc25bac26c00}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-180.000000)(0.000000,0.000000)(1.000000,180.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>userPanDirection</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{54d6c384-4233-4eb9-a974-23d540722a9b}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(2.000000,1.000000)(5.000000,5.000000)(10.000000,10.000000)(15.000000,100.000000)(20.000000,1000.000000)(27.000000,10000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>minimumDistance</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{56d17d69-457a-4050-b03c-2cdbe1be3ed4}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>userLFELevel</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{57ab21dd-d995-4ac7-8e83-b4c0107e4809}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-30.000000)(1.000000,0.000000)(2.000000,30.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ParamEqEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>gain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{57b1efe2-eaf6-4eb6-9547-2dafde5b3fb2}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.010000)(1.000000,0.100000)(2.000000,1.000000)(3.000000,10.000000)(4.000000,100.000000)(4.500000,500.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeCompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>attack</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{5c448a0b-0c8b-4266-8716-0ac3302c7ef7}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,25.000000)(2.000000,50.000000)(3.000000,75.000000)(4.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>FlangerEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>mix</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{5ee7e132-917f-4bb9-9409-cd87c307d37f}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>density</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{5face032-7d21-4d54-bf75-0e8d13d3cf30}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,30.000000)(2.000000,100.000000)(3.000000,300.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>earlyDelay</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{605c7d9e-3ed3-45cd-8d3b-996964fdc53f}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(1.500000,0.100000)(2.000000,1.000000)(3.000000,10.000000)(4.000000,100.000000)(4.500000,500.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>CompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>attackTime</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{60c39e4e-6847-45a8-bccc-9e8accbfccef}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(1.000000,10.000000)(2.000000,100.000000)(3.000000,1000.000000)(3.500000,5000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>DelayEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>delay</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{61f549b2-ed46-4a21-82f7-3f93808366c1}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeMaximizerEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>character</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{625914d1-c58a-457a-ab27-14bfc87ecc4c}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,1000.000000)(2.000000,10000.000000)(2.500000,60000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ADSRModulator</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>releaseTime</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{6314cb8e-7876-49b1-8981-f67687252e45}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-180.000000)(0.000000,0.000000)(1.000000,180.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerBusPanner</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>surroundPanDirection</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{653546a2-2b14-4c32-8f4b-4cfe1417d6f6}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-180.000000)(0.000000,0.000000)(1.000000,180.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>userStereoSeparation</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{6a0091e7-37a7-4050-8f49-83f96d0b7e83}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-24.000000)(-0.500000,-12.000000)(0.000000,0.000000)(0.500000,12.000000)(1.000000,24.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerBus</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>pitch</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{6b4c01d8-62b3-4719-a7cd-cd29586e1553}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-100.000000)(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerBusPanner</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>stereoPan</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{6cad24e7-8bfc-472b-a606-df17c1859971}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-70.000000)(2.000000,-48.000000)(5.000000,-24.000000)(9.000000,0.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeCompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>threshold</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{73bbccdc-895d-45bb-8ed1-445acdd05206}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-36.000000,-36.000000)(0.000000,0.000000)(12.000000,12.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>lowShelfGain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{7c53b5a5-5a2e-415a-aa2a-fc3b78d3803d}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,1.000000)(1.000000,10.000000)(2.000000,100.000000)(3.000000,1000.000000)(3.500000,5000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>McDSPLimiterEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>release</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{7d11ed6e-c845-413d-8a31-96e9af4f2296}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-24.000000)(-0.500000,-12.000000)(0.000000,0.000000)(0.500000,12.000000)(1.000000,24.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>Sound</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>pitch</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{813c0402-acd4-41c4-99f4-586bdbdb4ada}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,0.100000)(2.000000,1.000000)(3.000000,5.000000)(4.000000,20.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ChorusEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>rate</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{869512e6-eb2f-4694-a969-1838bff887e7}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>diffusion</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{87286d6e-4046-4705-9d46-e123309d63c7}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(2.000000,1.000000)(5.000000,5.000000)(10.000000,10.000000)(15.000000,100.000000)(20.000000,1000.000000)(27.000000,10000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>Sound</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>distanceOffset</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{87339bf4-2b9c-4f25-9d31-fcf408241c94}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,10.000000)(1.000000,100.000000)(2.000000,400.000000)(3.000000,750.000000)(4.000000,1250.000000)(5.000000,2000.000000)(6.000000,3200.000000)(7.000000,5500.000000)(8.000000,10000.000000)(9.000000,18000.000000)(10.000000,22000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>LowpassEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>cutoff</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{8f1220e9-cf09-48d9-b803-7e720f0964ef}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,1.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>AudioGamingAudioWeatherEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>wind</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{8f7eec4c-e0da-4d6b-8019-dedaf3747294}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>Sound</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>volume</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{900d5776-41cd-4a1a-91ad-52081654219f}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>earlyLateMix</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{919c99ea-511f-4302-80a5-2fb0386cb5fc}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,30.000000)(2.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>lateDelay</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{94079f76-407e-4c68-b93b-2ca4c5478ccc}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-180.000000)(0.000000,0.000000)(1.000000,180.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerBusPanner</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>surroundStereoAxis</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{96558585-6bc5-4cda-bd2f-3e4a6152d141}">
+        <property name="curve">
+            <value>LinearCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>Module</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>triggerProbability</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{9d36849a-aced-4b53-a22a-468417de30d2}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,1.000000)(1.000000,10.000000)(2.000000,100.000000)(3.000000,1000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>LimiterEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>release</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{9fd813a7-a8cf-4f80-89e3-3eca5c1bd7e4}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-90.000000)(1.000000,90.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>Sound</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>elevationOffset</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{a21f496c-36a5-464a-b0b1-63e038f32e04}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>dryLevel</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{a250ce05-3536-4c9d-83d5-ac22c853bfb0}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-180.000000)(0.000000,0.000000)(1.000000,180.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>userStereoAxis</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{a60b3109-4b54-4543-a8c9-8ec47717c744}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>DelayEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>level</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{a6bc0202-244a-4aac-9e45-65c8af031d2f}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,1.000000)(1.000000,2.000000)(2.000000,5.000000)(3.000000,10.000000)(4.000000,20.000000)(5.000000,50.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>CompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>ratio</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{aacd5c1c-e73a-43ef-a7c0-690148911f52}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerStrip</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>volume</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{ad006ca6-bd5c-4776-a477-fee29671e293}">
+        <property name="curve">
+            <value>LinearCurveStrategy{(0.000000,0.000000)(1.000000,1.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>Sound</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>fadeLevel</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{ade7189b-9e30-4488-b4ee-b90a1f69806b}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ChorusEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>depth</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{b0993886-0e4c-4405-9ec6-a01141fa4221}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,1.000000)(1.000000,2.000000)(2.000000,5.000000)(3.000000,10.000000)(4.000000,20.000000)(5.000000,50.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeCompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>ratio</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{b23d3d64-8153-42b3-8642-7710ab401caf}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,1000.000000)(2.000000,10000.000000)(2.500000,60000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ADSRModulator</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>attackTime</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{b264aecc-0a0a-41fb-9b28-e612be637bb4}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SnapshotModule</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>intensity</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{b7f401a0-70b8-4179-ac7e-47e13812cee4}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,20.000000)(1.000000,100.000000)(2.000000,400.000000)(3.000000,750.000000)(4.000000,1250.000000)(5.000000,2000.000000)(6.000000,3200.000000)(7.000000,5500.000000)(8.000000,10000.000000)(9.000000,18000.000000)(10.000000,22000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ParamEqEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>centreFrequency</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{c123d624-3a57-4812-8631-606086accec6}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.200000,20.000000)(1.000000,100.000000)(2.000000,400.000000)(3.000000,750.000000)(4.000000,1250.000000)(5.000000,2000.000000)(6.000000,3200.000000)(7.000000,5500.000000)(8.000000,10000.000000)(9.000000,18000.000000)(9.500000,20000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>highCut</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{d1090e74-cea9-43c2-a92a-e7f4bf8a7465}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,10000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>Module</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>startOffset</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{d2173254-cc66-4561-bc6a-abced6e43df5}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-30.000000)(1.000000,-15.000000)(2.000000,0.000000)(3.000000,15.000000)(4.000000,30.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeMaximizerEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>threshold</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{d26eea58-62f3-4633-b248-e20088e52f4e}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ThreeEQEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>lowGain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{d647623a-535f-4602-a7d1-12955ba765b3}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,10.000000)(1.000000,100.000000)(2.000000,400.000000)(3.000000,750.000000)(4.000000,1250.000000)(5.000000,2000.000000)(6.000000,3200.000000)(7.000000,5500.000000)(8.000000,10000.000000)(9.000000,18000.000000)(9.300000,22000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ThreeEQEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>lowCrossover</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{dfdb3a8c-a620-4047-80f6-d00fdaf4d51d}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,0.100000)(2.000000,1.000000)(3.000000,5.000000)(4.000000,20.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>LittleEndianSpectrumWorxEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>output_gain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{e2ac85da-f789-4e47-b228-a3414ba26bc9}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,3.000000)(2.000000,6.000000)(3.000000,9.000000)(4.000000,12.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>LimiterEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>boost</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{e7d57f9e-595b-4f75-a37a-021db5d9cd2f}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-12.000000)(1.000000,-9.000000)(2.000000,-6.000000)(3.000000,-3.000000)(4.000000,0.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>LimiterEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>ceiling</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{ec681a9b-90d4-4093-89c1-d0674dc77879}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-30.000000)(1.000000,-15.000000)(2.000000,0.000000)(3.000000,15.000000)(4.000000,30.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeMaximizerEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>margin</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{edf05881-9ab4-448d-9641-a7cdf59f2e9d}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ThreeEQEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>highGain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{eed2a9a6-c611-4c74-9012-56c95e7e3f14}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-1.000000,-180.000000)(0.000000,0.000000)(1.000000,180.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerBusPanner</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>surroundStereoSeparation</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{ef6c0af4-c122-4826-bb67-3e89904854f9}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,10.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>HFDecayRatio</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{f090e7b6-3b6d-4b48-a947-ed85a3dd0348}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.200000)(1.000000,1.000000)(2.000000,5.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ParamEqEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>bandwidth</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{f1abe18b-7d6b-48c5-8c5c-fa12cd7f8171}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(1.000000,0.000000)(2.000000,1.000000)(3.000000,5.000000)(4.000000,20.000000)(5.000000,100.000000)(5.500000,500.000000)(6.000000,10000.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SpatialiserEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>soundSize</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{f9009ef6-7abc-4c3c-8e12-93d4195a6664}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-60.000000)(2.000000,-40.000000)(5.000000,-20.000000)(9.000000,0.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>CompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>threshold</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{f999f43c-e52c-4df7-b481-d33fac19986d}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>SFXReverbEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>wetLevel</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{facc27a7-e182-4fad-9419-8595e2fb2e5b}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,0.000000)(1.000000,100.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>ChorusEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>mix</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{fb348f16-f343-4c5b-affd-16dc8962fe4e}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-36.000000)(1.000000,0.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>McDSPLimiterEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>threshold</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{fb731244-bd0c-4135-9960-ec688d61b21c}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(0.000000,-30.000000)(1.000000,-15.000000)(2.000000,0.000000)(3.000000,15.000000)(4.000000,30.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>iZotopeCompressorEffect</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>gain</value>
+        </property>
+    </object>
+    <object class="AutomationScale" id="{fe8a78cd-2ad3-4591-bd94-cf50bbe98ec8}">
+        <property name="curve">
+            <value>LinearPiecewiseCurveStrategy{(-42.000000,-80.000000)(-39.000000,-60.000000)(-36.000000,-50.000000)(-32.000000,-40.000000)(-27.000000,-30.000000)(-20.000000,-20.000000)(-10.000000,-10.000000)(0.000000,0.000000)(10.000000,10.000000)}</value>
+        </property>
+        <property name="associatedClassName">
+            <value>MixerBusPanner</value>
+        </property>
+        <property name="associatedPropertyName">
+            <value>surroundLFELevel</value>
+        </property>
+    </object>
+</objects>
